@@ -1,0 +1,19 @@
+h2 {
+  color: red;
+}
+
+.example {
+  color: green;
+}
+
+#special-example {
+  color: pink;
+}
+
+#special-example {
+  color: brown;
+}
+
+* {
+  color: blue;
+}
